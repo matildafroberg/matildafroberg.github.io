@@ -24,3 +24,19 @@
 
 	background-color:white;
 }
+
+.serie-text{
+
+	font-family: 'Raleway', sans-serif;
+	font-size: 100%;
+
+}
+
+.info-om-sidan{
+	font-size: 130%
+}
+
+.rubrik-tv-serier{
+	font-size: 130%;
+	font-weight: bold;
+}
